@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hoje é: ${data}"
+echo "Hoje é: $(date)"
