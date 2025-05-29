@@ -1,3 +1,4 @@
+Leticia
 Aqui contém o que cada um dos documentos fazem!
 
 - mostradata.sh - mostra qual o dia e hora atual do sistema.
